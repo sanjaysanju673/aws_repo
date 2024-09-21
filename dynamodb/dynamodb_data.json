@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": "001",
+        "email": "sanjay.kumar@gamil.com",
+        "name": "John Doe",
+        "age": 56
+    },
+    {
+        "user_id": "002",
+        "email": "sanjay@example.com",
+        "name": "sanjay kumar",
+        "age": 20
+    },
+    {
+        "user_id": "03",
+        "name": "ramya",
+        "Email": "sanjuvadde1111@gmail.com",
+        "age": "34"
+    }
+]
